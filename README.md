@@ -1,1 +1,6 @@
-# user_login
+- A basic user login application written in C# language
+- 
+- Username: Zylles
+- Password: zylles2024
+- 
+- With this password, you can change your username without coding.
