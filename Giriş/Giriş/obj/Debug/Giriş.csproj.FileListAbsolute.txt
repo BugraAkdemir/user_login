@@ -1,0 +1,10 @@
+D:\B-C#\Giriş\Giriş\bin\Debug\Giriş.exe.config
+D:\B-C#\Giriş\Giriş\bin\Debug\Giriş.exe
+D:\B-C#\Giriş\Giriş\bin\Debug\Giriş.pdb
+D:\B-C#\Giriş\Giriş\obj\Debug\Giriş.csproj.AssemblyReference.cache
+D:\B-C#\Giriş\Giriş\obj\Debug\Giriş.Form1.resources
+D:\B-C#\Giriş\Giriş\obj\Debug\Giriş.Properties.Resources.resources
+D:\B-C#\Giriş\Giriş\obj\Debug\Giriş.csproj.GenerateResource.cache
+D:\B-C#\Giriş\Giriş\obj\Debug\Giriş.csproj.CoreCompileInputs.cache
+D:\B-C#\Giriş\Giriş\obj\Debug\Giriş.exe
+D:\B-C#\Giriş\Giriş\obj\Debug\Giriş.pdb
